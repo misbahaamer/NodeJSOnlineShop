@@ -1,0 +1,27 @@
+{
+  "name": "nodejsonlineshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jshint": "^2.10.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misbahaamer/NodeJSOnlineShop.git"
+  },
+  "author": "misbah_aamer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misbahaamer/NodeJSOnlineShop/issues"
+  },
+  "homepage": "https://github.com/misbahaamer/NodeJSOnlineShop#readme"
+}
