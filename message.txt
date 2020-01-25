@@ -1,1 +1,1 @@
-random message
+first commit - first code
