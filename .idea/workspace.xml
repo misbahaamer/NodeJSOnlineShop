@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78d76075-2f96-46bc-aa88-e06a754c71d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScriptBasics/playmate.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptBasics/playmate.js" afterDir="false" />
-    </list>
+    <list default="true" id="78d76075-2f96-46bc-aa88-e06a754c71d5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JavaScriptBasics/playmate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="796">
+              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -62,41 +59,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="NodeJSOnlineShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NodeJSOnlineShop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NodeJSOnlineShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NodeJSOnlineShop" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaScriptBasics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NodeJSOnlineShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NodeJSOnlineShop" type="462c0819:PsiDirectoryNode" />
-              <item name="NodeJS-191.7479.1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NodeJSOnlineShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NodeJSOnlineShop" type="462c0819:PsiDirectoryNode" />
-              <item name="NodeJS-191.7479.1" type="462c0819:PsiDirectoryNode" />
-              <item name="NodeJS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NodeJSOnlineShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NodeJSOnlineShop" type="462c0819:PsiDirectoryNode" />
-              <item name="NodeJS-191.7479.1" type="462c0819:PsiDirectoryNode" />
-              <item name="NodeJS" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -161,7 +125,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15511727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15671642" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -204,8 +168,8 @@
     <entry file="file://$PROJECT_DIR$/JavaScriptBasics/playmate.js.graphql" />
     <entry file="file://$PROJECT_DIR$/JavaScriptBasics/playmate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="796">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
         </state>
       </provider>
     </entry>
