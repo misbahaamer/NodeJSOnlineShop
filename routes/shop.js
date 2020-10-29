@@ -6,4 +6,4 @@ router.get('/', (req, res, next) => {
     res.send('<h1>bismillah</h1>');
 })
 
-module.exports = router
+module.exports = router;
